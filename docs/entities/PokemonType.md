@@ -1,4 +1,4 @@
-# Type
+# Pokémon Type
 
 ## Description
 
