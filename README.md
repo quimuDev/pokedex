@@ -1,4 +1,4 @@
-# 📕 Pokedex
+# 📕 Pokédex
 
 ## 1. 🎯 Objective
 
@@ -14,10 +14,10 @@ List of user types who interact with the application:
 
 Below are the main use cases identified for the Pokédex application:
 
-- [CF-001 - List Pokémon](./docs/usecases/CF-001.md)
-- [CF-002 - Search Pokémon by name](./docs/usecases/CF-002.md)
-- [CF-003 - Filter Pokémon by type](./docs/usecases/CF-003.md)
-- [CF-004 - View Pokémon details](./docs/usecases/CF-004.md)
+- [CF-001 - List Pokémon](./docs/usecases/CF-001-ListPokemon.md)
+- [CF-002 - Find Pokémon by name](./docs/usecases/CF-002-FindPokemonByName.md)
+- [CF-003 - Find Pokémon by type](./docs/usecases/CF-003-FindPokemonByType.md)
+- [CF-004 - Get Pokémon details](./docs/usecases/CF-004-GetPokemonDetails.md)
 
 ## 4. 📏 Scope of the project
 
