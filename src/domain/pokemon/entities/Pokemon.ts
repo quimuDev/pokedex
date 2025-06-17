@@ -1,6 +1,6 @@
 import { PokemonType } from '@/domain/pokemonType/entities/PokemonType';
-import { PokemonStats } from '@/domain/shared/entities/PokemonStats';
-import { Uuid } from '@/domain/shared/entities/Uuid';
+import { PokemonStats } from '@/domain/shared/types/PokemonStats';
+import { Uuid } from '@/domain/shared/types/Uuid';
 
 export type Pokemon = {
     id: Uuid;

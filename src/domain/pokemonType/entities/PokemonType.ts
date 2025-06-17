@@ -1,4 +1,4 @@
-import { Uuid } from '@/domain/shared/entities/Uuid';
+import { Uuid } from '@/domain/shared/types/Uuid';
 
 export type PokemonType = {
     id: Uuid;
