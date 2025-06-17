@@ -1,4 +1,4 @@
-## CF-004 - Get Pokémon Details
+## CF-005 - Get Pokémon Details
 
 ## 1. Description
 

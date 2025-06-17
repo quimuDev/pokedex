@@ -15,9 +15,10 @@ List of user types who interact with the application:
 Below are the main use cases identified for the Pokédex application:
 
 - [CF-001 - List Pokémon](./docs/usecases/CF-001-ListPokemon.md)
-- [CF-002 - Find Pokémon by name](./docs/usecases/CF-002-FindPokemonByName.md)
-- [CF-003 - Find Pokémon by type](./docs/usecases/CF-003-FindPokemonByType.md)
-- [CF-004 - Get Pokémon details](./docs/usecases/CF-004-GetPokemonDetails.md)
+- [CF-002 - Get Pokémon types](./docs/usecases/CF-002-GetPokemonTypes.md)
+- [CF-003 - Find Pokémon by name](./docs/usecases/CF-003-FindPokemonByName.md)
+- [CF-004 - Find Pokémon by type](./docs/usecases/CF-004-FindPokemonByType.md)
+- [CF-005 - Get Pokémon details](./docs/usecases/CF-005-GetPokemonDetails.md)
 
 ## 4. 📏 Scope of the project
 
