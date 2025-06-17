@@ -1,8 +1,8 @@
-## CF-002 - Find Pokémon By Name
+## CF-003 - Find Pokémon By Type
 
 ## 1. Description
 
-The user search for a specific Pokémon by its name.
+The user searches for Pokémon by their type.
 
 ## 2. Main User
 
@@ -12,15 +12,15 @@ User.
 
 Required:
 
-- Search term.
+- Type.
 
 Optional:
 
-- None.
+- Search term.
 
 ## 4. Outputs
 
-A list of available Pokémon that matches the provided search term.
+A list of available Pokémon that match the selected type.
 
 ## 5. Preconditions
 
@@ -28,8 +28,8 @@ None.
 
 ## 6. Main Flow
 
-1. The user enters a search term into the search field.
-2. The system filters the list of Pokémon using the provided search term.
+1. The user selects a type from the filter field.
+2. The system filters the list of Pokémon by the selected type.
 3. The system returns the matching Pokémon(s) to the user.
 
 ## 7. Alternative Flows
