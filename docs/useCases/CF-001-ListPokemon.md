@@ -21,7 +21,7 @@ Optional:
 
 ## 4. Outputs
 
-List of available Pokémon.
+A list of available Pokémon.
 
 ## 5. Preconditions
 
