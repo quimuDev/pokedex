@@ -35,7 +35,7 @@ None.
 
 ## 7. Alternative Flows
 
-A1: No Pokémon found — the system returns an empty list.
+A1: No Pokémon found — the system returns “No Pokémon found.”.
 
 ## 8. Postconditions
 
