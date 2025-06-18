@@ -11,7 +11,7 @@ export type Pokemon = {
     description: string;
     height: number;
     weight: number;
-    abilities: string;
+    abilities: string[];
     types: PokemonType[];
     weaknesses: PokemonType[];
     stats: PokemonStats;
