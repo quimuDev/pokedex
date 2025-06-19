@@ -22,34 +22,34 @@ describe('Use Case - ListPokemon', () => {
                         {
                             id: '94a3ec32-7fc6-4ef3-9b0e-13d8f4f1bda5',
                             name: 'grass',
-                            color: '#77cc55',
+                            color: '#78c84f',
                         },
                     ],
                     weaknesses: [
                         {
                             id: 'fa4b58e5-4c1c-4b83-a038-1cd3c649b612',
                             name: 'bug',
-                            color: '#aabb23',
+                            color: '#a8b720',
                         },
                         {
                             id: '0d6f94b2-6df9-4900-bf12-9f408b1b3462',
                             name: 'fire',
-                            color: '#ff4422',
+                            color: '#f08030',
                         },
                         {
                             id: '1f7b948a-67d3-4a6d-b8b0-183bbba55a44',
                             name: 'flying',
-                            color: '#8899ff',
+                            color: '#a890f0',
                         },
                         {
                             id: 'df4ea38d-5e0f-4ac2-b59e-6f5f7bc0b46f',
                             name: 'ice',
-                            color: '#66ccff',
+                            color: '#98d8d8',
                         },
                         {
                             id: 'cab78d9c-df14-4fd2-953c-ffb4c75cf2b5',
                             name: 'poison',
-                            color: '#aa5699',
+                            color: '#9f40a0',
                         },
                     ],
                     stats: {
@@ -83,17 +83,17 @@ describe('Use Case - ListPokemon', () => {
                         {
                             id: '3e5a64c1-4af4-448e-a981-2d978d6cc842',
                             name: 'ground',
-                            color: '#cdbb55',
+                            color: '#e0c068',
                         },
                         {
                             id: '9b40a89d-755f-4213-9629-c3f5f35e8265',
                             name: 'rock',
-                            color: '#bbaa66',
+                            color: '#b8a039',
                         },
                         {
                             id: 'fb07f170-1188-47bc-93d0-2679ed785163',
                             name: 'water',
-                            color: '#3399fe',
+                            color: '#6790f0',
                         },
                     ],
                     stats: {
